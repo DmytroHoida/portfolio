@@ -76,7 +76,7 @@
  <div align="center"  class="icons-social" style="margin-left: 10px;">
          <a style="margin-left: 10px;"  target="_blank" href="mailto:dmytrohoida@gmail.com">
 			<img src="https://cdn-icons-png.flaticon.com/512/3781/3781605.png" style="width:40px;"></a>
-        <a style="margin-left: 10px;"  target="_blank" href="tel:+48796399838">
+        <a style="margin-left: 10px;"  target="_blank" href="tel:48796399838">
 			<img src="https://cdn-icons-png.flaticon.com/512/13/13936.png" style="width:40px;"></a>
          <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/dmytro-hoida/">
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" ></a>
