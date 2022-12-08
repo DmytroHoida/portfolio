@@ -10,6 +10,7 @@
 # 🖹 Certificates
 
 - **[ISTQB Foundation Level](https://github.com/DmytroHoida/MyFiles/blob/769be811bd5c795aa46be0dbdfb7a72a8b359bbe/DMYTRO_HOIDA_017136_CTFL_2021_EN.pdf)**
+- **[DareIT Challenge: QA Automated Testing](https://github.com/DmytroHoida/portfolio/blob/main/QA_UA_v2_CertificateOfCompletion_8.pdf)
 
 <br>
 
