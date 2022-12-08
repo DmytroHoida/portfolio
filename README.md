@@ -5,7 +5,7 @@
 
 # 🗨 About me
 
-> I’m an **ISTQB (FL)** certified manual software tester aiming for entry-level positions to get the first hands-on experience at QA. I’m **always curious** about learning new skills, tools, and concepts. Teaching others has made a **passionate learner** myself. I have also recently completed **CS50 online course** taught by the **Harvard University**, **Automation Bootcamp** at Evolution and **Dare IT Challenge**. I am open to **internship programs** as well as **entry-level positions as a manual tester** with the prospect of developing as an **automation tester**.
+> I’m an **ISTQB (FL)** certified software tester aiming for entry-level positions to get the first hands-on experience at QA. I’m **always curious** about learning new skills, tools, and concepts. Teaching others has made a **passionate learner** myself. I have also recently completed **CS50 online course** taught by the **Harvard University**, **Automation Bootcamp** at Evolution and **Dare IT Challenge**. I am open to **internship programs** as well as **entry-level positions as a manual tester** with the prospect of developing as an **automation tester**.
 
 # 🖹 Certificates
 
