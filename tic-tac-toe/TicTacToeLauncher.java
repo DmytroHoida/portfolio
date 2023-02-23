@@ -1,7 +1,7 @@
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class Main {
+public class TicTacToeLauncher {
     public static void main(String[] args) {
         char[] game = new char[Helper.LENGTH];
         Arrays.fill(game, ' ');
